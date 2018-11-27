@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 242c23ee1a58d4a4e823294302452972
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Josh_Head
+    100004: Josh_Hips
+    100006: Josh_LeftArm
+    100008: Josh_LeftFoot
+    100010: Josh_LeftForeArm
+    100012: Josh_LeftHand
+    100014: Josh_LeftLeg
+    100016: Josh_LeftShoulder
+    100018: Josh_LeftToeBase
+    100020: Josh_LeftUpLeg
+    100022: Josh_Neck
+    100024: Josh_RightArm
+    100026: Josh_RightFoot
+    100028: Josh_RightForeArm
+    100030: Josh_RightHand
+    100032: Josh_RightLeg
+    100034: Josh_RightShoulder
+    100036: Josh_RightToeBase
+    100038: Josh_RightUpLeg
+    100040: Josh_Spine
+    100042: Josh_Spine1
+    400000: //RootNode
+    400002: Josh_Head
+    400004: Josh_Hips
+    400006: Josh_LeftArm
+    400008: Josh_LeftFoot
+    400010: Josh_LeftForeArm
+    400012: Josh_LeftHand
+    400014: Josh_LeftLeg
+    400016: Josh_LeftShoulder
+    400018: Josh_LeftToeBase
+    400020: Josh_LeftUpLeg
+    400022: Josh_Neck
+    400024: Josh_RightArm
+    400026: Josh_RightFoot
+    400028: Josh_RightForeArm
+    400030: Josh_RightHand
+    400032: Josh_RightLeg
+    400034: Josh_RightShoulder
+    400036: Josh_RightToeBase
+    400038: Josh_RightUpLeg
+    400040: Josh_Spine
+    400042: Josh_Spine1
+    7400000: Take 2018-11-08 12.18.03 PM
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 2018-11-08 12.18.03 PM' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'Josh_Spine1' has translation animation
+      that will be discarded.\n\t'Josh_Head' has translation animation that will be
+      discarded.\n\t'Josh_LeftHand' has translation animation that will be discarded.\n\t'Josh_RightHand'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Josh_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Josh_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Idle_Animation_Josh(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_Hips
+      parentName: Idle_Animation_Josh(Clone)
+      position: {x: 0.00008287461, y: 0.008372373, z: 0.0009990305}
+      rotation: {x: 0.02392664, y: 0.7315077, z: -0.0027829749, w: 0.6814075}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_Spine
+      parentName: Josh_Hips
+      position: {x: -0, y: 0.0006882632, z: 0}
+      rotation: {x: -0.059207432, y: 0.016068393, z: 0.012981851, w: 0.998032}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_Spine1
+      parentName: Josh_Spine
+      position: {x: 2.2351741e-10, y: 0.0018233078, z: 0}
+      rotation: {x: 0.010697163, y: 0.0053657265, z: -0.016741825, w: 0.9997882}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_Neck
+      parentName: Josh_Spine1
+      position: {x: -0, y: 0.0020779695, z: 0}
+      rotation: {x: -0.07280211, y: 0.00058950495, z: 0.015496816, w: 0.9972258}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_Head
+      parentName: Josh_Neck
+      position: {x: 2.2351741e-10, y: 0.0012139797, z: 0.0001566428}
+      rotation: {x: 0.004909556, y: 0.0020782282, z: 0.004901599, w: 0.9999738}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_LeftShoulder
+      parentName: Josh_Spine1
+      position: {x: -0.00034161264, y: 0.0016857361, z: -0.000009282679}
+      rotation: {x: 0.0014225056, y: 0.071869984, z: -0.14056528, w: 0.9874584}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_LeftArm
+      parentName: Josh_LeftShoulder
+      position: {x: -0.0011884503, y: 0, z: 0}
+      rotation: {x: 0.0058690896, y: 0.020008095, z: 0.21840212, w: 0.97563607}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_LeftForeArm
+      parentName: Josh_LeftArm
+      position: {x: -0.0026713377, y: 0, z: 0}
+      rotation: {x: 0.05109242, y: -0.052032102, z: 0.027871424, w: 0.99694806}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_LeftHand
+      parentName: Josh_LeftForeArm
+      position: {x: -0.0023407375, y: -0.0000000023841857, z: -5.9604643e-10}
+      rotation: {x: 0.051112995, y: 0.04708475, z: -0.02150695, w: 0.99735045}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_RightShoulder
+      parentName: Josh_Spine1
+      position: {x: 0.00032779723, y: 0.0016857361, z: -0.000009282679}
+      rotation: {x: -0.022832237, y: 0.01445383, z: 0.123622134, w: 0.99196136}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_RightArm
+      parentName: Josh_RightShoulder
+      position: {x: 0.0011884503, y: 0, z: 0}
+      rotation: {x: 0.05623546, y: 0.009903168, z: -0.2017555, w: 0.97777003}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_RightForeArm
+      parentName: Josh_RightArm
+      position: {x: 0.0026713377, y: 0, z: 0}
+      rotation: {x: 0.0004314358, y: 0.0019820386, z: -0.026546163, w: 0.99964553}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_RightHand
+      parentName: Josh_RightForeArm
+      position: {x: 0.0023648094, y: -0.0000000011920929, z: 2.2351741e-10}
+      rotation: {x: 0.0004295088, y: -0.03692059, z: 0.02019219, w: 0.9991141}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_LeftUpLeg
+      parentName: Josh_Hips
+      position: {x: -0.0008393454, y: 0, z: 0}
+      rotation: {x: 0.067298986, y: -0.046157274, z: 0.007263049, w: 0.9966382}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_LeftLeg
+      parentName: Josh_LeftUpLeg
+      position: {x: -0, y: -0.0029286128, z: 0}
+      rotation: {x: -0.009697744, y: -0.025408994, z: -0.016086658, w: 0.9995007}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_LeftFoot
+      parentName: Josh_LeftLeg
+      position: {x: -0, y: -0.004733029, z: 0}
+      rotation: {x: -0.036916547, y: -0.321511, z: 0.025735088, w: 0.94583595}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_LeftToeBase
+      parentName: Josh_LeftFoot
+      position: {x: -0, y: -0.00054557447, z: 0.0012590182}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_RightUpLeg
+      parentName: Josh_Hips
+      position: {x: 0.0008393454, y: 0, z: 0}
+      rotation: {x: 0.045714576, y: -0.068469495, z: -0.040844318, w: 0.995768}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_RightLeg
+      parentName: Josh_RightUpLeg
+      position: {x: -0, y: -0.0029286128, z: 0}
+      rotation: {x: 0.041660745, y: 0.0049775927, z: -0.012971634, w: 0.99903524}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_RightFoot
+      parentName: Josh_RightLeg
+      position: {x: -0, y: -0.004733029, z: 0}
+      rotation: {x: -0.07110282, y: 0.42760175, z: -0.04327616, w: 0.9001269}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Josh_RightToeBase
+      parentName: Josh_RightFoot
+      position: {x: -0, y: -0.00054557447, z: 0.0012590182}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

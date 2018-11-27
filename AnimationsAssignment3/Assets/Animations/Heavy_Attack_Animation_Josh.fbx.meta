@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 0d9dc10ee8b8bec4c86a525b21916dbd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Jmoney_Head
+    100004: Jmoney_Hips
+    100006: Jmoney_LeftArm
+    100008: Jmoney_LeftFoot
+    100010: Jmoney_LeftForeArm
+    100012: Jmoney_LeftHand
+    100014: Jmoney_LeftLeg
+    100016: Jmoney_LeftShoulder
+    100018: Jmoney_LeftToeBase
+    100020: Jmoney_LeftUpLeg
+    100022: Jmoney_Neck
+    100024: Jmoney_RightArm
+    100026: Jmoney_RightFoot
+    100028: Jmoney_RightForeArm
+    100030: Jmoney_RightHand
+    100032: Jmoney_RightLeg
+    100034: Jmoney_RightShoulder
+    100036: Jmoney_RightToeBase
+    100038: Jmoney_RightUpLeg
+    100040: Jmoney_Spine
+    100042: Jmoney_Spine1
+    400000: //RootNode
+    400002: Jmoney_Head
+    400004: Jmoney_Hips
+    400006: Jmoney_LeftArm
+    400008: Jmoney_LeftFoot
+    400010: Jmoney_LeftForeArm
+    400012: Jmoney_LeftHand
+    400014: Jmoney_LeftLeg
+    400016: Jmoney_LeftShoulder
+    400018: Jmoney_LeftToeBase
+    400020: Jmoney_LeftUpLeg
+    400022: Jmoney_Neck
+    400024: Jmoney_RightArm
+    400026: Jmoney_RightFoot
+    400028: Jmoney_RightForeArm
+    400030: Jmoney_RightHand
+    400032: Jmoney_RightLeg
+    400034: Jmoney_RightShoulder
+    400036: Jmoney_RightToeBase
+    400038: Jmoney_RightUpLeg
+    400040: Jmoney_Spine
+    400042: Jmoney_Spine1
+    7400000: Heavy_Attack_Animation_Josh_001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Heavy_Attack_Animation_Josh_001' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'Jmoney_Spine1' has translation
+      animation that will be discarded.\n\t'Jmoney_Head' has translation animation
+      that will be discarded.\n\t'Jmoney_LeftHand' has translation animation that
+      will be discarded.\n\t'Jmoney_RightHand' has translation animation that will
+      be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Jmoney_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jmoney_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Heavy_Attack_Animation_Josh(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_Hips
+      parentName: Heavy_Attack_Animation_Josh(Clone)
+      position: {x: -0.0009581774, y: 0.008250798, z: 0.000105475185}
+      rotation: {x: -0.01277947, y: 0.72297114, z: 0.009810738, w: 0.69069034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_Spine
+      parentName: Jmoney_Hips
+      position: {x: -0, y: 0.00068294985, z: 0}
+      rotation: {x: -0.011224547, y: -0.009644795, z: -0.01755067, w: 0.9997365}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_Spine1
+      parentName: Jmoney_Spine
+      position: {x: -0, y: 0.0019540119, z: -1.11758706e-10}
+      rotation: {x: 0.0058319387, y: -0.0032118147, z: 0.049689267, w: 0.9987425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_Neck
+      parentName: Jmoney_Spine1
+      position: {x: -0, y: 0.0021513603, z: 0}
+      rotation: {x: -0.051628336, y: 0.008104881, z: -0.002353881, w: 0.99863076}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_Head
+      parentName: Jmoney_Neck
+      position: {x: -7.4505804e-11, y: 0.001280334, z: 0.00016520418}
+      rotation: {x: 0.010455133, y: 0.002750407, z: 0.041693337, w: 0.999072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_LeftShoulder
+      parentName: Jmoney_Spine1
+      position: {x: -0.00033522263, y: 0.0017514466, z: -0.000010554045}
+      rotation: {x: -0.009946412, y: 0.028846348, z: -0.13887641, w: 0.98983955}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_LeftArm
+      parentName: Jmoney_LeftShoulder
+      position: {x: -0.0012121422, y: 0, z: 0}
+      rotation: {x: 0.025364457, y: 0.057115383, z: 0.17447565, w: 0.9826763}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_LeftForeArm
+      parentName: Jmoney_LeftArm
+      position: {x: -0.0026111496, y: 0, z: 0}
+      rotation: {x: 0.043578215, y: -0.0048323097, z: -0.012010876, w: 0.99896616}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_LeftHand
+      parentName: Jmoney_LeftForeArm
+      position: {x: -0.0023004021, y: -0.0000000047683715, z: -1.4901161e-10}
+      rotation: {x: 0.043553513, y: -0.0006943655, z: -0.036067512, w: 0.9983996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_RightShoulder
+      parentName: Jmoney_Spine1
+      position: {x: 0.00033103183, y: 0.0017514466, z: -0.000010554045}
+      rotation: {x: -0.025066635, y: -0.038261574, z: 0.11532606, w: 0.992274}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_RightArm
+      parentName: Jmoney_RightShoulder
+      position: {x: 0.0012121422, y: 0, z: 0}
+      rotation: {x: 0.06120231, y: -0.020425512, z: -0.14513263, w: 0.98730624}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_RightForeArm
+      parentName: Jmoney_RightArm
+      position: {x: 0.0026111496, y: 0, z: 0}
+      rotation: {x: -0.010752589, y: 0.05754672, z: 0.009479877, w: 0.99823993}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_RightHand
+      parentName: Jmoney_RightForeArm
+      position: {x: 0.0023471431, y: 0.0000000011920929, z: -4.4703483e-10}
+      rotation: {x: -0.010766521, y: -0.02460467, z: 0.017888973, w: 0.9994792}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_LeftUpLeg
+      parentName: Jmoney_Hips
+      position: {x: -0.0008328657, y: 0, z: 0}
+      rotation: {x: 0.108139046, y: 0.03371963, z: 0.011068653, w: 0.99350214}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_LeftLeg
+      parentName: Jmoney_LeftUpLeg
+      position: {x: -0, y: -0.0028112798, z: 0}
+      rotation: {x: 0.000013485598, y: -0.0071392776, z: -0.009207146, w: 0.99993217}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_LeftFoot
+      parentName: Jmoney_LeftLeg
+      position: {x: -0, y: -0.004919106, z: 0}
+      rotation: {x: -0.017624347, y: -0.4696902, z: -0.03504693, w: 0.8819593}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_LeftToeBase
+      parentName: Jmoney_LeftFoot
+      position: {x: -0, y: -0.0005413627, z: 0.0012492986}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_RightUpLeg
+      parentName: Jmoney_Hips
+      position: {x: 0.0008328657, y: 0, z: 0}
+      rotation: {x: 0.09444914, y: 0.08235704, z: -0.027412275, w: 0.99173856}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_RightLeg
+      parentName: Jmoney_RightUpLeg
+      position: {x: -0, y: -0.0028112798, z: 0}
+      rotation: {x: -0.0036980435, y: 0.07321189, z: 0.008714446, w: 0.9972715}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_RightFoot
+      parentName: Jmoney_RightLeg
+      position: {x: -0, y: -0.004919106, z: 0}
+      rotation: {x: -0.09534706, y: 0.34202912, z: 0.005055816, w: 0.9348259}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jmoney_RightToeBase
+      parentName: Jmoney_RightFoot
+      position: {x: -0, y: -0.0005413627, z: 0.0012492986}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
