@@ -73,7 +73,7 @@ ModelImporter:
     7400002: Walk_Backward-Left_Animation_Josh_001|Idle_Animation_Josh
     7400004: Walk_Backward-Left_Animation_Josh_001|Idle_Animation_Josh|Idle_Animation_Josh|Idle_Animation_Josh|Idl
     7400006: Walk_Backward-Left_Animation_Josh_001|Jump_Animation_Josh_001
-    7400008: Walk_Backward-Left_Animation_Josh_001|Walk_Backward-Left_Animation_Josh_001
+    7400008: walkbackleft
     9500000: //RootNode
     10800000: Lamp
     10800002: Lamp.001
@@ -106,7 +106,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Walk_Backward-Left_Animation_Josh_001|Walk_Backward-Left_Animation_Josh_001
+      name: walkbackleft
       takeName: Walk_Backward-Left_Animation_Josh_001|Walk_Backward-Left_Animation_Josh_001
       firstFrame: 0
       lastFrame: 615

@@ -58,7 +58,7 @@ ModelImporter:
     400050: Spine1
     400052: //RootNode
     7400000: Walk_Forward-Left_Animation_Josh|Walk_Backward-Right_Animation_Josh_002
-    7400002: Walk_Forward-Left_Animation_Josh|Walk_Forward-Left_Animation_Josh
+    7400002: walkforwardleft
     9500000: //RootNode
   externalObjects: {}
   materials:
@@ -89,7 +89,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Walk_Forward-Left_Animation_Josh|Walk_Forward-Left_Animation_Josh
+      name: walkforwardleft
       takeName: Walk_Forward-Left_Animation_Josh|Walk_Forward-Left_Animation_Josh
       firstFrame: 0
       lastFrame: 541

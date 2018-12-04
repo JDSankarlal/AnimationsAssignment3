@@ -80,7 +80,7 @@ ModelImporter:
     2000000: Camera
     2000002: Camera.001
     7400000: Idle_Animation_Josh|Idle_Animation_Josh
-    7400002: Idle_Animation_Josh|Idle_Animation_Josh|Idle_Animation_Josh|Idle_Animation_Josh|Idl
+    7400002: Idle
     9500000: //RootNode
     10800000: Lamp
     10800002: Lamp.001
@@ -113,25 +113,25 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Idle_Animation_Josh|Idle_Animation_Josh|Idle_Animation_Josh|Idle_Animation_Josh|Idl
+      name: Idle
       takeName: Idle_Animation_Josh|Idle_Animation_Josh|Idle_Animation_Josh|Idle_Animation_Josh|Idl
-      firstFrame: 0
-      lastFrame: 972
+      firstFrame: 133
+      lastFrame: 801
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
+      loopTime: 1
+      loopBlend: 1
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
       keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
+      keepOriginalPositionY: 0
       keepOriginalPositionXZ: 0
-      heightFromFeet: 0
+      heightFromFeet: 1
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []

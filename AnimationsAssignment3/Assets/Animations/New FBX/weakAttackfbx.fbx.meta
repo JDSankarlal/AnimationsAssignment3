@@ -78,7 +78,7 @@ ModelImporter:
     7400012: Weak_Attack_Animation_Josh|Walk_Backward_Animation_Josh
     7400014: Weak_Attack_Animation_Josh|Walk_Forward-Left_Animation_Josh
     7400016: Weak_Attack_Animation_Josh|Walk_Forward_Animation_Josh
-    7400018: Weak_Attack_Animation_Josh|Weak_Attack_Animation_Josh
+    7400018: weakattack
     9500000: //RootNode
     10800000: Lamp
     10800002: Lamp.001
@@ -111,7 +111,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Weak_Attack_Animation_Josh|Weak_Attack_Animation_Josh
+      name: weakattack
       takeName: Weak_Attack_Animation_Josh|Weak_Attack_Animation_Josh
       firstFrame: 0
       lastFrame: 399
